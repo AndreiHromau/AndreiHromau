@@ -19,7 +19,7 @@
     </td>
     <td width="60%" valign="top" align="center">
       <img src="Achievements.JPEG" width="100%" style="border-radius: 10px;">
-      <p><b>🏆 Achievements</b></p>
+      <h3><b>🏆 My accomplishments</b></h3>
     </td>
   </tr>
 </table>
