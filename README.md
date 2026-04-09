@@ -6,20 +6,15 @@
         <h3>Java Backend Developer</h3>
       </div>
       <div id="badges" align="left">
-        <a href="https://www.linkedin.com/in/andrei-hromau/">
-          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-        </a>
-        <a href="https://t.me/andrei_hromau">
-          <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-        </a>
+        <a href="https://www.linkedin.com/in/andrei-hromau/"><img src="https://img.shields.io/badge/LinkedIn-gold?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>&nbsp;<a href="https://t.me/andrei_hromau"><img src="https://img.shields.io/badge/Telegram-gold?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
       </div>
       <br>
       <p>
         🔭 Backend Engineer passionate about building robust applications within the Java Ecosystem.<br>
         🚀 Currently enhancing my expertise in Spring AI and distributed architectures.<br>
         📫 Get in touch: <br>
-        <a href="mailto:andreihromau@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" height="30" width="40"/></a> 
-        <a href="mailto:andreihromau@gmail.com"><u>andreihromau@gmail.com</u></a>
+        <a href="mailto:andreihromau@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" height="20" width="30"/></a> 
+        <a href="mailto:andreihromau@gmail.com" style="color: #FFD700;"><u>andreihromau@gmail.com</u></a>
       </p>
     </td>
     <td width="60%" valign="top" align="center">
@@ -28,8 +23,6 @@
     </td>
   </tr>
 </table>
-
-<hr>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
