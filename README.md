@@ -2,7 +2,7 @@
   <tr>
     <td width="40%" valign="top">
       <div id="header" align="left">
-        <h2>I'm Andrei Hromau</h2>
+        <h2>ANDREI HROMAU</h2>
         <h3>Java Backend Developer</h3>
       </div>
       <div id="badges" align="left">
