@@ -17,8 +17,9 @@
       <p>
         🔭 Backend Engineer passionate about building robust applications within the Java Ecosystem.<br>
         🚀 Currently enhancing my expertise in Spring AI and distributed architectures.<br>
-        📫 Get in touch: 
-  <a href="mailto:andreihromau@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" height="30" width="40"/></a> andreihromau@gmail.com
+        📫 Get in touch: <br>
+        <a href="mailto:andreihromau@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" height="30" width="40"/></a> 
+        <a href="mailto:andreihromau@gmail.com"><u>andreihromau@gmail.com</u></a>
       </p>
     </td>
     <td width="60%" valign="top" align="center">
