@@ -12,9 +12,6 @@
       <p>
         🔭 Backend Engineer passionate about building robust applications within the Java Ecosystem.<br>
         🚀 Currently enhancing my expertise in Spring AI and distributed architectures.<br>
-        📫 Get in touch <br>
-        <a href="mailto:" target="blank"><img align="center" src="" height="20" width="30"/></a> 
-        <a href="mailto:" style="color: #FFD700;"><u></u></a>
       </p>
     </td>
     <td width="60%" valign="top" align="center">
